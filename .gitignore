@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# docker compose
+**/docker-compose.yml
+
+# admin-credentials.conf
+**/admin-credentials.conf
+
 # Distribution / packaging
 .Python
 build/
